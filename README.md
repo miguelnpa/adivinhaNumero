@@ -1,16 +1,5 @@
 # adivinha_numero
 
-A new Flutter project.
+Pequeno jogo criado para testar e aprender o Flutter.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+A ideia desse pequeno é fazer um jogo onde o usuário tem algumas chances para adivinhar um número gerado aleatoriamente. À medida que for aprendendo novas técnicas com o Flutter para melhorar interface, usabilidade, etc. Eu pretendo adicionar novas branchs para mostrar meu progresso.
